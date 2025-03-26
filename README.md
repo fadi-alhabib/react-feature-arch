@@ -16,7 +16,7 @@
 To use Grodd CLI, install it globally via npm:
 
 ```sh
-npm install -g grodd-cli
+npm install -g grodd
 ```
 
 ## Usage
