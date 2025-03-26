@@ -10,7 +10,6 @@
 - ⚡ **Pre-configured Chakra UI setup** for a seamless UI experience.
 - 🛠 **Easily create feature modules** with the necessary folder structure.
 - 🚀 **Optimized TypeScript configuration** for better developer experience.
-- 🦧 Fun and engaging CLI messages!
 
 ## Installation
 
