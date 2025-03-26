@@ -61,7 +61,6 @@ _This will:_
 - Create a `store.ts` file with a Jotai atom.
 - Create a `feature-namePage.tsx` component.
 - Generate an `index.ts` file for easy imports.
-- Display some motivational gorilla ASCII art. 🦧
 
 ## Example
 
